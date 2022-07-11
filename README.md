@@ -1,5 +1,9 @@
 # serverless-api
 
+## Deployment
+
+[Development](https://628gaza4gh.execute-api.us-west-2.amazonaws.com/Development/people)
+
 ## About
 
 - Full CRUD functionality using AWS Lambda.
@@ -41,3 +45,7 @@
 ### DELETE
 
 ![DELETE](./img/lambda-delete.png)
+
+### LIVE DEPLOYMENT
+
+![LIVE DEPLOYMENT](./img/lambda-liveDevDeployment.png)
